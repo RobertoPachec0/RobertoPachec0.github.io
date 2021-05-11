@@ -23,18 +23,18 @@ section{
 }
 
 .banner{
-    background-image: url(../Recursos/banner.jpg);
-    background-size: cover;    
+    
+    
 }
 
 section_2{
     position: relative;
-    width: 100%;
+    width: 10%;
     height: 100vh;
     display:flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
 }
 
 section_3{
